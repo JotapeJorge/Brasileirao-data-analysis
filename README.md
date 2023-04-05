@@ -1,6 +1,6 @@
 # My first project
 This is my first data project. In it, I tried to predict some tendencies based on the results of Campeonato Brasileiro.
-# Brasileirão Erros e Acertos
+# Brasileirão Data Analysis
 This project is designed to test the accuracy of predictions made by a website. The purpose is to determine if the website's predictions are reliable and can be trusted.
 
 ## Installation
